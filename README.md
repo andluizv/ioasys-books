@@ -19,7 +19,7 @@ Os seguintes comandos devem ser executados:
 
 ## Versão remota
 
-Link: https://vercel.com/andluizv/ioasys-books
+Link: https://ioasys-books-nine.vercel.app/
 
 ### Tecnologias e bibliotecas
 

@@ -20,7 +20,6 @@ export const LoginForm = () => {
             "email": email,
             "password": password,
         }
-        console.log(data)
         api.post('/auth/sign-in', data).then(response => {
             const token = response.headers['authorization'];
             const refreshToken = response.headers['refresh-token'];
